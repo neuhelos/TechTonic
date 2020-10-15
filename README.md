@@ -1,9 +1,8 @@
 # Tech Tonic
 
-### [Slide Deck Deep Dive](https://docs.google.com/presentation/d/1KsbStgxeM_5OG_aHMb3EI0k0osmm-8VYV7SXG0km8is/edit?usp=sharing)
-
 The newest addition to your Twitterverse, Tech Tonic is the key to slaying and staying on the vanguard of what's trending in the world of tech. Currently, Twitter is the leading social media platform for the latest news and trends for software developers and engineers. It's where they go to share ideas, discover opportunities, network with tech communities and collectively figure out solutions to emergent problems. But their Twitter Feeds are dedicated to so much more beyond the tech sphere, the full universe of their interests. Tech Tonic as Twitter's new metaphorical helper function seeks to focus this social media overload by providing a platform for developers to target tech related trends through a customizable search engine. No more social media impacted time management or productivity concerns or overwhelming streams of content. Tech Tonic provides a crisp and streamlined design and interface centered on the user experience for rendering instantaneous feeds of the most popular and recent tech-related tweets based on user-defined search queries. Guided by the demands of social networking, Tech Tonic's UI/UX was developed to be mobile-first and mobile-centric. In a tech world ever in motion and evolving, Tech Tonic is here to revolutionize your daily tech journey.
 
+#### [Slide Deck Deep Dive](https://docs.google.com/presentation/d/1KsbStgxeM_5OG_aHMb3EI0k0osmm-8VYV7SXG0km8is/edit?usp=sharing)
 
 ### Tech Tonic Web Screen
 ![Tech Tonic Web Screen](tech-tonic/public/Tech%20Tonic%20Web%20Screenshot.png)
